@@ -1,6 +1,6 @@
 # React Native Patients ~ [![NodeJS-shield]](https://www.python.org/) [![version-shield]]() [![license-shield]]() [![express-require-shield]]() [![react-require-shield]]() [![react-native-require-shield]]() [![expo-require-shield]]()
 
-```javascript
+```bash
 >>> npm install
 >>> yarn start
 ```
